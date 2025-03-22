@@ -10,6 +10,9 @@ const API_KEY = 'API_KEY_RENDER_56df735'; // actual API key
 // Initialize an instance of an Express application
 const app = express();
 
+// Define a GET endpoint at  ('/') that indicating that the server is running
+app.get('/', (req, res) => res.send('Render service application is running'));
+
 // Define a GET endpoint at '/services' that fetches service data
 app.get("/services", async (req, res) => {
     try {
