@@ -7,7 +7,7 @@ import dotenv from "dotenv"; // Import dotenv for loading environment variables
 dotenv.config();
 
 // Set the port for the server to listen on, either from environment variables or default to 3000
-const PORT = 443 || 3000;
+const PORT = process.env.PORT || 3000;
 // Define the API key for authorization with the external API
 const API_KEY = process.env.API_KEY;// Load the API key from environment variables
 
