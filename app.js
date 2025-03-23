@@ -3,9 +3,9 @@ import express from "express"; // Import the Express framework for building web 
 import axios from "axios"; // Import Axios for making HTTP requests
 
 // Set the port for the server to listen on, either from environment variables or default to 3000
-const PORT = process.env.PORT || 3000;
+const PORT = "https://render-service-app-9w2f.onrender.com/services" || 3000;
 // Define the API key for authorization with the external API
-const API_KEY = API_KEY_RENDER_56df735; // actual API key
+const API_KEY = process.env.API_KEY; // actual API key
 
 // Initialize an instance of an Express application
 const app = express();
