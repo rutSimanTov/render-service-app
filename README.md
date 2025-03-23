@@ -50,7 +50,7 @@ The Render Service App is a Node.js application built using Express. It provides
    To fetch service data, navigate to `http://localhost:3000/services`.
 
 ## 🗂️ Project Structure
-```
+
 render-service-app/
 ├── node_modules/
 ├── src/
@@ -61,7 +61,7 @@ render-service-app/
 ├── package.json
 ├── package-lock.json
 └── README.md
-```
+
 
 ## 🔌 API Endpoints
 
