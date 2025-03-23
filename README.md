@@ -44,10 +44,10 @@ The Render Service App is a Node.js application built using Express. It provides
    ```
 
 2. **Access the Application**:
-   Open your browser and navigate to `http://localhost:3000`. You should see a message indicating that the server is running.
+   Open your browser and navigate to `https://render-service-app-9w2f.onrender.com/services`. You should see a message indicating that the server is running.
 
 3. **Fetch Service Data**:
-   To fetch service data, navigate to `http://localhost:3000/services`.
+   To fetch service data, navigate to `https://render-service-app-9w2f.onrender.com/services`.
 
 ## 🗂️ Project Structure
 ```
@@ -67,7 +67,7 @@ render-service-app/
 
 - **GET /**:
   - **Description**: Returns a message indicating that the server is running.
-  - **Example**: `http://localhost:3000/`
+  - **Example**: `https://render-service-app-9w2f.onrender.com/`
   - **Response**:
     ```text
     Render service application is running
@@ -75,7 +75,7 @@ render-service-app/
 
 - **GET /services**:
   - **Description**: Fetches service data from an external API.
-  - **Example**: `http://localhost:3000/services`
+  - **Example**: `https://render-service-app-9w2f.onrender.com/services`
   - **Response**:
     ```json
     [
