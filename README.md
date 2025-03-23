@@ -1,6 +1,6 @@
-להלן קובץ README מקצועי עם אמוג'ים לפרויקט שלך:
 
-```markdown
+
+
 # 🚀 Render Service App
 
 ## 📖 Overview
@@ -22,7 +22,7 @@ The Render Service App is a Node.js application built using Express. It provides
    ```bash
    git clone https://github.com/rutSimanTov/render-service-app.git
    cd render-service-app
-   ```
+ 
 
 2. **Install dependencies**:
    ```bash
