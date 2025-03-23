@@ -22,7 +22,7 @@ The Render Service App is a Node.js application built using Express. It provides
    ```bash
    git clone https://github.com/rutSimanTov/render-service-app.git
    cd render-service-app
- 
+   ```
 
 2. **Install dependencies**:
    ```bash
@@ -49,8 +49,8 @@ The Render Service App is a Node.js application built using Express. It provides
 3. **Fetch Service Data**:
    To fetch service data, navigate to `http://localhost:3000/services`.
 
-🗂️ Project Structure
-Code
+## 🗂️ Project Structure
+```
 render-service-app/
 ├── node_modules/
 ├── src/
@@ -61,7 +61,7 @@ render-service-app/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 
 ## 🔌 API Endpoints
 
@@ -105,6 +105,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## 📧 Contact
 If you have any questions or suggestions, feel free to contact me at [your-email@example.com].
 
-
-
-כעת יש לך קובץ README מקצועי ומעוצב עם אמוג'ים לפרויקט שלך.
