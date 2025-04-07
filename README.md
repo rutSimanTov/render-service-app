@@ -102,5 +102,3 @@ If there is an error while fetching data from the external API, the server will 
 
 ## 💡 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
-```
-
