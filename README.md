@@ -100,10 +100,7 @@ If there is an error while fetching data from the external API, the server will 
 }
 ```
 
-## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
+## 💡 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 ```
 
